@@ -1,0 +1,9 @@
+C:\Users\Pichau\source\repos\Lista\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Pichau\source\repos\Lista\CRUD\bin\Debug\CRUD.exe
+C:\Users\Pichau\source\repos\Lista\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Pichau\source\repos\Lista\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\Lista\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\Pichau\source\repos\Lista\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\Lista\CRUD\obj\Debug\CRUD.exe
+C:\Users\Pichau\source\repos\Lista\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Pichau\source\repos\Lista\CRUD\obj\Debug\CRUD.View.resources
